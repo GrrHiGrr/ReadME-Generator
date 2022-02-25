@@ -4,15 +4,9 @@
 ##  Github Username: GrrHiGrr
 
 ## Description
-    Test
-
-## Table of Contents (Optional)
-    If your README is long, add a table of contents to make it easy for users to find what they need.
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributors](#contributors)
-- [License](#license)
-- [Tests](#tests)
+    This application allows users to quickly and easily create ReadMe pages directly to their GitHub.
+    
+    Utilizes json and JS.
 
 ## Installation
     Test
