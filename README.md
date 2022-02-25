@@ -8,18 +8,4 @@
     
     Utilizes json and JS.
 
-## Installation
-    Test
-    
-## Usage
-    Test
-        
-## Contributors
-    Test
-    
-## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-    
-## Tests
-    Test
-    
+Test of ReadMe is under Assets folder. File was too large to attach.
